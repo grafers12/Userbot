@@ -31,7 +31,7 @@ com_6: "Uploading..."
 com_7: "`Something Went Wrong.`"
 
 #chatactions
-can_1: "#GBanned_User Joined.\n\n**User** : {}\n**Reason**: {}\n\n`User Banned.`"
+can_1: "#💀GBanned_User Joined.\n\n**User** : {}\n**Motivo**: {}\n\n`User Banned.`"
 can_2: "∆ #UsernameUpdate\n\n@{} changed username to @{}"
 can_3: "∆ #UsernameUpdate\n\n{} removed its username. (@{})"
 can_4: "∆ #UsernameUpdate\n\n{}'s new username --> @{}"
@@ -167,12 +167,12 @@ afk_5: "**I'm Going AFK.**\n\n**Reason:** `{}`"
 afk_6: "**I'm Going AFK.**"
 
 # bot
-bot_1: "Hey,  I am alive."
+bot_1: "Mi venganza empezó 😎"
 bot_2: "Stats"
 bot_3: "Repo"
 bot_4: "Support"
 bot_5: "• `Restarting...`"
-alive_1: "**The Ultroid Userbot...**\n\n**{}**\n\n✵ **Owner** - `{}`\n✵ **Ultroid** - `{}`\n✵ **Py-Ultroid** - `{}`\n✵ **UpTime** - `{}`\n✵ **Python** - `{}`\n✵ **Telethon** - `{}`\n✵ **Branch** - `{}`"
+alive_1: "**🔰The ManuelHnrqz Userbot🔰**\n\n**{}**\n\n✳️ **Propietario** - `{}`\n✳️ **VersionBot** - `{}`\n✳️ **Py-Ultroid** - `{}`\n✳️ **UpTime** - `{}`\n✳️ **Python** - `{}`\n✳️ **Telethon** - `{}`\n✳️ **Branch** - `{}`"
 log: "**Heroku** Ultroid Logs.\nPasted [here]({}) too!"
 ping: "**Pong !!** `{}ms`\n**Uptime** - `{}`"
 usage: "**⚙️ Dyno Usage ⚙️**:\n\n-> **Dyno usage for** `{}`:\n  •  **{}h**  **{}m |** `[{}%]`\n-> **Dyno hours quota remaining this month**:\n  •  **{}h**  **{}m |** `[{}%]`\n\n**Total Disk Space**: `{}`\n**Used**: `{}`\n**Free**: `{}`\n\n**📊 Data Usage 📊**\n**Upload**: `{}`\n**Down**: `{}`\n\n**CPU**: `{}%`\n**RAM**: `{}%`\n**DISK**: `{}%`"
