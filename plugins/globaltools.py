@@ -424,7 +424,7 @@ async def _(e):
     gban(userid, reason)
     if isinstance(user, User):
         await e.client(BlockRequest(userid))
-    gb_msg = f"**#Gbanned** {name} `in {chats} chats and added to gbanwatch!`"
+    gb_msg = f"**💀#SuperGlobalBanned💀** {name} `in {chats} chats and added to gbanwatch!`"
     if reason:
         gb_msg += f"\n**Reason** : {reason}"
     await xx.edit(gb_msg)
